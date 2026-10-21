@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spb-drink.github.io/sz-f77/sitemap.xml
